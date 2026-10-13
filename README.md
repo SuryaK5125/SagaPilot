@@ -2,8 +2,6 @@
 
 **An autonomous AI operator for multi-system business workflows.**
 
-[Watch Demo](https://drive.google.com/file/d/1mXW9P_EdnwewKifkoP73CMcy_YGOx9Ht/view?usp=sharing)
-
 SagaPilot is a prototype I built for the CentrAlign AI engineering assignment. It takes a business task in plain English and attempts to complete it across three simulated company systems: Billing, Access Management, and Task Management.
 
 The main problem I wanted to explore was what happens when an AI agent completes part of a task, but another operation fails. How should it recover, and how can we verify that the task was actually completed?
