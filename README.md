@@ -1,4 +1,4 @@
-# SagaPilot — Autonomous Multi-System Enterprise Operator
+# SagaPilot - Autonomous Multi-System Enterprise Operator
 
 SagaPilot is a small AI employee. You give it a business objective in plain English. It then operates three simulated company systems (**Billing**, **Access Management**, **Task Management**) through real, database-backed tools. When something fails, it recovers. When company policy requires it, it waits for a human. When it finishes, a separate verifier checks the outcome against the database.
 
